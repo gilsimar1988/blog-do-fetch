@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    padding: 5px 15px;
+    background-color: rgb(212, 106, 123);
+    color: white;
+    border-radius: 10%;
+
+}
+.esconder{
+    display:  none;
+}
+
+
